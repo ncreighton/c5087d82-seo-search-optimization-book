@@ -28,8 +28,6 @@ Works directly in Chrome, Edge, and Brave — no switching apps required. Under 
 
 Upgrade to the Pro version for **$29.99** and unlock all premium features.
 
-**[Buy on Gumroad](https://propathacademy.gumroad.com/l/bklai)** — Instant download, lifetime updates
-
 **[Buy Now (Stripe)](https://buy.stripe.com/14AfZhfXx8IsbRS5bucZH45)** — Secure checkout
 
 ## Installation
@@ -41,7 +39,6 @@ Upgrade to the Pro version for **$29.99** and unlock all premium features.
 ## Support
 
 - Open an [issue](../../issues) for bug reports
-- Pro customers get priority support via the [purchase platform](https://propathacademy.gumroad.com/l/bklai)
 
 ## License
 
